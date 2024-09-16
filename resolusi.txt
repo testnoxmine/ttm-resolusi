@@ -1,0 +1,5 @@
+Resolusi test nox 
+- belajar basic git
+- belajar docker
+- belajar ansible
+- belajar python/go
