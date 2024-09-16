@@ -3,3 +3,7 @@ Resolusi test nox
 - belajar docker
 - belajar ansible
 - belajar python/go
+- belajar linux
+- sertifikasi rhel
+- belajar security
+- membuat akun di gituhub
