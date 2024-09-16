@@ -6,4 +6,5 @@ Resolusi test nox
 - belajar linux
 - sertifikasi rhel
 - belajar security
-- membuat akun di gituhub
+- belajar CI/CD
+- belajar membuat laporan yang tertib
